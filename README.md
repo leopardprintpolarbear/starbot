@@ -1,3 +1,0 @@
-# starbot
-
-test git
